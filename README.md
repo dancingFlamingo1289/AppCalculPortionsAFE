@@ -55,7 +55,7 @@
    - Importez le projet en tant que **Projet Java existant**.  
 
 3. **Compiler et exécuter :**
-   - Lancez la classe principale : `src/annexe/Main.java`.  
+   - Lancez la classe principale : `src/application/Main.java`.  
 
 ---
 
